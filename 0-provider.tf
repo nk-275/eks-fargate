@@ -7,7 +7,7 @@ variable "cluster_name" {
 }
 
 variable "cluster_version" {
-  default = "1.22"
+  default = "1.25"
 }
 
 terraform {
